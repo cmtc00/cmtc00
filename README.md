@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+### I am currently learning programming, if you find errors or want to give me some ideas. Contact me on discord.
+### ⚡ @cmtc00
 
 <!--
 **cmtc00/cmtc00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
