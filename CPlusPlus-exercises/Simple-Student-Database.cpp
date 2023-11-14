@@ -48,7 +48,7 @@ int main() {
 	cout << "\n * Quit (d)";
 	cout << "\n\n Your choice: "; cin >> option;
 
-	if (option != 'a' && option != 'b' && option != 'c') {
+	if (option != 'a' && option != 'b' && option != 'c' && option != 'd') {
 		cout << "Invalid option. Exiting the program." << endl;
 		delete[] record;
 		return 0;
