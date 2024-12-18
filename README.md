@@ -1,5 +1,3 @@
-### Hi!
-### I am currently learning programming, if you find errors or want to give me some ideas. Contact me on discord.
 ### ⚡ @cmtc00
 
 <!--
